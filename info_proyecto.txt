@@ -1,1 +1,2 @@
 primer commit: creado archivo info_txt
+Esta linea esta añadida desde main
