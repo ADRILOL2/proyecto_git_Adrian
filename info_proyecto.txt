@@ -1,1 +1,2 @@
 primer commit: creado archivo info_txt
+segundo commit: editando archivo info.txt
